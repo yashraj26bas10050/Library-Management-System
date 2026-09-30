@@ -1,0 +1,20 @@
+[
+    {
+        "book_id": "B101",
+        "title": "Introduction to Python",
+        "author": "John Smith",
+        "status": "Available"
+    },
+    {
+        "book_id": "B102",
+        "title": "Basic Physics",
+        "author": "R. Sharma",
+        "status": "Borrowed"
+    },
+    {
+        "book_id": "B103",
+        "title": "Engineering Mathematics",
+        "author": "A. Kumar",
+        "status": "Available"
+    }
+]
